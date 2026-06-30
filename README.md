@@ -25,4 +25,4 @@ Skills demonstrated
 - Data visualization and storytelling
 
 Contact
-- Dennis Walsh — GitHub: @DW100-ops — Email: youremail@example.com
+- Dennis Walsh — GitHub: @DW100-ops — Email: dlw10053@gmail.com
